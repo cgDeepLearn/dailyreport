@@ -9,6 +9,8 @@ verify_ssl = true
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+dbutils = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
