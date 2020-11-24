@@ -24,7 +24,7 @@ db2_db = 'db2'
 # 邮件配置
 email_configs = {
     'email_to': 'basic',  # 基本邮件接收人,邮箱前缀
-    'credit_emial_to': 'A,B',  # 报告其他接收人，邮箱前缀
+    'credit_email_to': 'A,B',  # 报告其他接收人，邮箱前缀
     'report_days': 7,  # 多天汇总报告的天数，默认7天
     
 }
