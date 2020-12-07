@@ -1,6 +1,7 @@
 # dailyreport
 generate daily report by python and send  email 
 根据数据定时生成每日报表并发送邮件
+
 详情请点击: https://cgdeeplearn.github.io/2020/05/18/Mirco-service/
 
 ## 1. 获取数据
