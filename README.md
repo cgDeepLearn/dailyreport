@@ -1,4 +1,13 @@
 # dailyreport
+
+<div align="center">
+	<br>
+	<a href="https://cgdeeplearn.github.io/2020/12/06/Daily-Report">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
 generate daily report by python and send  email 
 根据数据定时生成每日报表并发送邮件
 
